@@ -1,0 +1,7 @@
+name: NodeFly
+main: me.JayzaSapphire.NodeFly
+author: JayzaSapphire
+version: 1.0
+commands:
+  fly:
+    description: Toggle flying.
